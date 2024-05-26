@@ -7,8 +7,6 @@ Cybersecurity Engineer intern
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [so.tanathorn\_st@tni.ac.th](mailto:so.tanathorn_st@tni.ac.th)
 * 🧠  I'm learning Cybersecurity
-* 🤝  I'm open to collaborating on web developer
-* ⚡  I'm studying Japanese.
 
 ### Skills
 
