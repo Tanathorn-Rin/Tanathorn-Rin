@@ -1,4 +1,4 @@
-Hi 👋 My name is tanathorn
+Hi 👋 My name is Tanathorn
 ==========================
 
 Cybersecurity Engineer
