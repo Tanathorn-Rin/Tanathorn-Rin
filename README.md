@@ -1,13 +1,12 @@
 Hi 👋 My name is Tanathorn
 ==========================
 
-Computer Engineering Student
+Computer engineering student
 ----------------------------
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [so.tanathorn\_st@tni.ac.th](mailto:so.tanathorn_st@tni.ac.th)
-* 🧠  I'm learning web application development
-* 🤝  I'm open to collaborating on web developer
+* 🧠  I'm learning computer programming
 * ⚡  I'm studying Japanese.
 
 ### Skills
