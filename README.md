@@ -6,6 +6,7 @@ Computer engineering student
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [so.tanathorn\_st@tni.ac.th](mailto:so.tanathorn_st@tni.ac.th)
+* 🤝  I'm open to collaborating on Web Development, Mobile Development, CTF
 * 🧠  I'm learning computer programming
 * ⚡  I'm studying Japanese.
 
