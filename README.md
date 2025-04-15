@@ -1,7 +1,7 @@
 Hi 👋 My name is Tanathorn
 ==========================
 
-I'm a fresh graduated student passionate about Cybersecurity, Web Development, Mobile Development and blockchain technology. I love diving into tech, building cool stuff, and constantly learning new things.
+I'm a fresh graduated student passionate about Cybersecurity, Web Development, Mobile Development, and Blockchain technology. I love diving into tech, building cool stuff, and constantly learning new things.
 
 ### 🔍 Currently exploring topics in:
 
