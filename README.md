@@ -1,13 +1,36 @@
 Hi 👋 My name is Tanathorn
 ==========================
 
-Computer engineering student
+I'm a fresh graduated student passionate about Cybersecurity, Web Development, and Mobile Development. I love diving into tech, building cool stuff, and constantly learning new things.
+
+### 🔍 Currently exploring topics in:
+
+Bug bounty & ethical hacking 🐞
+
+Secure web and mobile app development 🔐
+
+Open-source contributions 🚀
+
+💻 I spend most of my time hacking around on platforms like HTB and building projects that challenge my skills.
+
+### 🤝 I'm open to collaborating on:
+
+Open source projects
+
+Web or mobile app development
+
+Cybersecurity-related tools or research
+
+
+If you're working on something exciting or just want to geek out about tech, feel free to reach out!
+
+
 ----------------------------
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [so.tanathorn\_st@tni.ac.th](mailto:so.tanathorn_st@tni.ac.th)
 * 🤝  I'm open to collaborating on Web Development, Mobile Development, Cybersecurity
-* 🧠  I'm learning computer programming
+* 🧠  I'm learning computer programming, cybersecurity
 * ⚡  I'm studying Japanese.
 
 ### Skills
