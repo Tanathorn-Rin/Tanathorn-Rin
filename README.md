@@ -31,7 +31,7 @@ If you're working on something exciting or just want to geek out about tech, fee
 * ✉️  You can contact me at [so.tanathorn\_st@tni.ac.th](mailto:so.tanathorn_st@tni.ac.th)
 * 🤝  I'm open to collaborating on Web Development, Mobile Development, Cybersecurity
 * 🧠  I'm learning computer programming, cybersecurity
-* ⚡  I'm studying Japanese.
+* ⚡  I'm studying Japanese for JLPT N3 right now.
 
 ### Skills
 
