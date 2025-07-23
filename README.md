@@ -1,51 +1,97 @@
-Hi 👋 My name is Tanathorn
-==========================
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=74b9ff&height=200&section=header&text=Tanathorn%20Rin&fontSize=70&animation=fadeIn&fontAlignY=30&desc=%20Freelancer%20|%20Developer%20|%20Cybersecurity%20&descAlignY=50&descAlign=62&fontColor=fff5ee" width="100%" />
+</div>
 
-I'm a fresh graduated student passionate about Cybersecurity, Web Development, Mobile Development, and Blockchain technology. I love diving into tech and constantly learning new things.
-
-### 🔍 Currently exploring topics in:
-
-Bug bounty & ethical hacking 🐞
-
-Secure web and mobile app development 🔐
-
-Open-source contributions 🚀
-
-💻 I spend most of my time hacking around on platforms like HTB and building projects that challenge my skills.
-
-### 🤝 I'm open to collaborating on:
-
-Open source projects
-
-Web or mobile app development
-
-Cybersecurity-related tools or research
-
-
-If you're working on something exciting or just want to geek out about tech, feel free to reach out!
-
-##
-
-* 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [so.tanathorn\_st@tni.ac.th](mailto:so.tanathorn_st@tni.ac.th)
-* 🤝  I'm open to collaborating on Web Development, Mobile Development, Cybersecurity
-* 🧠  I'm learning computer programming, cybersecurity
-* ⚡  I'm studying Japanese for JLPT N3 right now.
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<p align="center">
+  <a href="https://github.com/Tanathorn-Rin">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=25&duration=4000&color=74B9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+💻;Cybersucurity+Enthusiast+👾;Always+Learning+New+Things+📚" alt="Typing SVG" />
+  </a>
 </p>
 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me 
 
-### Socials
+<img align="right" height="220" width="220" src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" />
 
-<p align="left"> <a href="https://www.github.com/Tanathorn-Rin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/tanathorn-somsakserm-5686b5240" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+```javascript
+const tanathorn = {
+  location: "Bangkok, Thailand",
+  education: "Computer Engineer",
+  interests: ["Web Development 💻", "Mobile Apps 📱", 
+              "UX/UI Design 🎨", "Cybersucurity👾"],
+  currentFocus: "Building web apps 💻",
+  hobbies: ["Coding 🧑‍💻", "Learning 📚"],
+  funFact: "I'm studying Japanese for JLPT N3"
+};
+```
 
-### Badges
-##
+- 🌸 I'm currently working on **[42 school projects]**
+- 🌟 I'm currently learning **[Blockchain, Cybersecurity, Web Development]**
+- ✉️ How to reach me: **[so.tanathorn@gmail.com]**
 
-<a href="https://github.com/Tanathorn-Rin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanathorn-Rin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 🧸 Tech Stack & Tools
 
+<details open>
+<summary><b>Click to expand/collapse</b> 💫</summary>
+<br>
+
+<div align="center">  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+</details>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif" width="400"/>
+</div>
+
+## 📊 GitHub Stats
+
+<details open>
+<summary><b>Click to expand/collapse</b> 🌠</summary>
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanathorn-Rin&theme=dracula&column=7&no-frame=true&no-bg=true" width="100%" alt="Trophy" />
+</div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanathorn-Rin&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanathorn-Rin&&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanathorn-Rin&theme=radical&currStreakLabel=74b9ff&sideLabels=F8D866&ring=74b9ff&fire=F8D866&hide_border=true&background=292D3E" alt="Streak stats" />
+</div>
+</details>
+
+## 💕 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/YourLinkedInUsername">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+  </a>
+  <a href="https://YourPersonalWebsite.com">
+    <img src="https://img.shields.io/badge/-Website-74b9ff?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
+  </a>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=74b9ff&height=120&section=footer" width="100%"/>
+</div>
