@@ -64,10 +64,6 @@ const tanathorn = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanathorn-Rin&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanathorn-Rin&&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanathorn-Rin&theme=radical&currStreakLabel=74b9ff&sideLabels=F8D866&ring=74b9ff&fire=F8D866&hide_border=true&background=292D3E" alt="Streak stats" />
-</div>
 </details>
 
 ## 💕 Connect With Me
