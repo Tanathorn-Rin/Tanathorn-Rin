@@ -3,6 +3,51 @@ Hi 👋 My name is Tanathorn
 
 I'm a fresh graduated student passionate about Cybersecurity, Web Development, Mobile Development, and Blockchain technology. I love diving into tech and constantly learning new things.
 
+## 🎭 Random Joke Generator
+
+This repository includes a **Random Joke Generator** that fetches jokes from a public API and displays them with a modern, responsive UI.
+
+### Features:
+- 🎯 Fetches random jokes from the Official Joke API
+- 🎨 Modern, responsive web interface
+- ⚡ Fast and lightweight (single HTML file)
+- 🛡️ Robust error handling for network issues
+- 📱 Mobile-friendly design
+- ♿ Keyboard accessibility support
+
+### How to Run:
+1. **Clone this repository** (if you haven't already):
+   ```bash
+   git clone https://github.com/Tanathorn-Rin/Tanathorn-Rin.git
+   cd Tanathorn-Rin
+   ```
+
+2. **Open the joke generator**:
+   - Simply open `joke-generator.html` in any modern web browser
+   - Or use a local server (recommended for best experience):
+     ```bash
+     # Using Python 3
+     python -m http.server 8000
+     
+     # Using Node.js (if you have http-server installed)
+     npx http-server
+     
+     # Using PHP
+     php -S localhost:8000
+     ```
+   - Then navigate to `http://localhost:8000/joke-generator.html`
+
+3. **Use the generator**:
+   - Click "Get Random Joke" to fetch a new joke
+   - The app handles both setup/punchline jokes and single-line jokes
+   - Network errors are handled gracefully with user-friendly messages
+
+### Technical Details:
+- **API**: Uses the Official Joke API (https://official-joke-api.appspot.com/random_joke)
+- **Technologies**: HTML5, CSS3, JavaScript (ES6+)
+- **No dependencies**: Pure vanilla JavaScript, no frameworks required
+- **Error Handling**: Comprehensive error handling for network issues, API errors, and invalid responses
+
 ### 🔍 Currently exploring topics in:
 
 Bug bounty & ethical hacking 🐞
