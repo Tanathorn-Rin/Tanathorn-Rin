@@ -18,9 +18,9 @@ const tanathorn = {
   education: "Computer Engineer",
   interests: ["Web Development 💻", "Mobile Apps 📱", 
               "UX/UI Design 🎨", "Cybersucurity👾"],
-  currentFocus: "Building web apps 💻",
+  current_focus: "Building web apps 💻",
   hobbies: ["Coding 🧑‍💻", "Learning 📚"],
-  funFact: "I'm studying Japanese for JLPT N3"
+  fun_fact: "I'm studying Japanese for JLPT N3"
 };
 ```
 
