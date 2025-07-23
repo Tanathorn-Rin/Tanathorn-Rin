@@ -28,7 +28,7 @@ const tanathorn = {
 - 🌟 I'm currently learning **[Blockchain, Cybersecurity, Web Development]**
 - ✉️ How to reach me: **[so.tanathorn@gmail.com]**
 
-## 🧸 Tech Stack & Tools
+## 💻 Tech Stack & Tools
 
 <details open>
 <summary><b>Click to expand/collapse</b> 💫</summary>
