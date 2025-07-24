@@ -24,7 +24,7 @@ const tanathorn = {
 };
 ```
 
-- 🌸 I'm currently working on **[42 school projects]**
+- 🌸 I'm currently working on **[My own portfolio Website]**
 - 🌟 I'm currently learning **[Blockchain, Cybersecurity, Web Development]**
 - ✉️ How to reach me: **[so.tanathorn@gmail.com]**
 
