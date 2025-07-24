@@ -58,7 +58,7 @@ const tanathorn = {
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanathorn-Rin&theme=dracula&column=7&no-frame=true&no-bg=true" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanathorn-Rin&theme=dracula" />
 </div>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanathorn-Rin&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
