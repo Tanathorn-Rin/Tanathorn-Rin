@@ -75,7 +75,7 @@ const tanathorn = {
   <a href="mailto:so.tanathorn@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
   </a>
-  <a href="https://YourPersonalWebsite.com">
+  <a href="tanathorn-rin.vercel.app">
     <img src="https://img.shields.io/badge/-Website-74b9ff?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
   </a>
 </div>
