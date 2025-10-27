@@ -62,7 +62,7 @@ const tanathorn = {
 ## 💕 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/tanathorn-s-5686b5240">
+  <a href="https://linkedin.com/in/tanathorn-s">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
   <a href="mailto:so.tanathorn@gmail.com">
