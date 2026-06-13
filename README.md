@@ -1,86 +1,139 @@
+<!-- ░▒▓ HEADER ▓▒░ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=74b9ff&height=200&section=header&text=Tanathorn%20Rin&fontSize=70&animation=fadeIn&fontAlignY=30&desc=%20Freelancer%20|%20Developer%20|%20Cybersecurity%20&descAlignY=50&descAlign=62&fontColor=fff5ee" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF0000&height=200&section=header&text=root@tanathorn:~%23&fontSize=55&animation=fadeIn&fontAlignY=32&desc=Offensive%20Security%20%7C%20Penetration%20Tester%20%7C%20Red%20Teamer&descAlignY=52&descAlign=50&fontColor=FFFFFF" width="100%" />
 </div>
+
+<!-- ░▒▓ ASCII BREACH ▓▒░ -->
+```ansi
+                 ______
+              .-"      "-.
+             /            \
+            |              |        [ SYSTEM BREACH DETECTED ]
+            |,  .-.  .-.  ,|        > injecting payload.........[ OK ]
+            | )(_o/  \o_)( |        > bypassing auth............[ OK ]
+            |/     /\     \|        > escalating privileges.....[ OK ]
+            (_     ^^     _)        > spawning shell............[ OK ]
+             \__|IIIIII|__/         #
+              | \IIIIII/ |          # ACCESS LEVEL: root
+              \          /          # whoami => 0xTanathorn
+               `--------`
+```
 
 <p align="center">
   <a href="https://github.com/Tanathorn-Rin">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=25&duration=4000&color=74B9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+💻;Cybersucurity+Enthusiast+👾;Always+Learning+New+Things+📚" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=800&color=FF0000&center=true&vCenter=true&width=620&lines=%24+sudo+./exploit.sh;Access+Granted+_;Penetration+Tester+%7C+Red+Teamer;Breaking+systems+to+make+them+stronger;while(true)+%7B+hack()%3B+learn()%3B+report()%3B+%7D" alt="Typing SVG" />
   </a>
 </p>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me 
+<p align="center">
+  <img src="https://img.shields.io/badge/ACCESS_LEVEL-ROOT-FF0000?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/CLEARANCE-CLASSIFIED-FFFFFF?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/ENCRYPTION-AES--256-8B0000?style=flat-square&labelColor=000000" />
+  <img src="https://komarev.com/ghpvc/?username=Tanathorn-Rin&label=TARGETS_SCANNED&color=8B0000&style=flat-square" />
+</p>
 
-<img align="right" height="220" width="220" src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" />
+<!-- ░▒▓ WHOAMI ▓▒░ -->
+## `$ whoami`
 
-```javascript
-const tanathorn = {
-  location: "Bangkok, Thailand",
-  education: "Computer Engineer",
-  interests: ["Web Development 💻", "Mobile Apps 📱", 
-              "UX/UI Design 🎨", "Cybersucurity👾"],
-  current_focus: "Building web apps 💻",
-  hobbies: ["Coding 🧑‍💻", "studying 📚"],
-  fun_fact: "I'm studying Japanese for JLPT N3"
-};
+```python
+class Operator:
+    def __init__(self):
+        self.handle      = "0xTanathorn"
+        self.role        = "Computer Engineer / Pentester"
+        self.specialties = ["Web Exploitation", "Network Recon",
+                            "Mobile Security", "OSINT"]
+        self.focus       = "Offensive Security & Secure Dev"
+        self.learning    = ["Cloud Pentesting", "Red Teaming", "Malware Analysis"]
+        self.status      = "open for engagements"
+        self.fun_fact    = "Studying Japanese (JLPT N3) & Chinese"
+
+    def motto(self):
+        return "The quieter you become, the more you can hear."
 ```
 
-- 🌸 I'm currently working on **[My own portfolio Website]**
-- 🌟 I'm currently learning **[Blockchain, Cybersecurity, Web/Mobile Development]**
-- 👀 I'm currently looking for **[Job oppertunity]**
-- 🤝 I’m looking to collaborate on **[Blockchain development, Cybersecurity, Web/Mobile Development]**
-- ✉️ How to reach me: **[so.tanathorn@gmail.com]**
+```bash
+┌──(tanathorn㉿kali)-[~]
+└─$ cat objectives.txt
+  [+] Building my own portfolio platform
+  [+] Sharpening offensive security tradecraft
+  [+] Looking for: job opportunities & collabs
+  [+] Open to: Red Team / AppSec / Cloud Security
+```
 
+<!-- ░▒▓ ARSENAL ▓▒░ -->
+## `$ nmap -sV --script=arsenal localhost`
 
-## 💻 Tech Stack & Tools
+```bash
+Starting Nmap ( https://github.com/Tanathorn-Rin )
+PORT      STATE  SERVICE
+22/tcp    open   offensive-security
+80/tcp    open   web-exploitation
+443/tcp   open   secure-development
+3306/tcp  open   sql / database
+8080/tcp  open   reverse-engineering
+```
 
 <details open>
-<summary><b>Click to expand/collapse</b> 💫</summary>
+<summary><b>[+] Exploitation & Offensive Tooling</b></summary>
 <br>
-  
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,html,css,js,react,mysql,java,go,nextjs,docker,aws,git,github,androidstudio,figma,kali,ros,swift)](https://skillicons.dev)
+
+![Kali](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=FF0000)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=FF0000)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=FF0000)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=FFFFFF)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=FFFFFF)
+![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logoColor=FF0000)
+![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logoColor=FFFFFF)
+
 </details>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif" width="400"/>
-</div>
-
-## 📊 GitHub Stats
 
 <details open>
-<summary><b>Click to expand/collapse</b> 🌠</summary>
+<summary><b>[+] Languages & Stack</b></summary>
 <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanathorn-Rin&theme=dracula" />
-</div>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanathorn-Rin&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanathorn-Rin&&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,go,java,js,html,css,react,nextjs,mysql,docker,aws,git,github,kali,androidstudio,figma,swift)](https://skillicons.dev)
+
 </details>
 
-## 💕 Connect With Me
+<!-- ░▒▓ STATS ▓▒░ -->
+## `$ ./recon.sh --stats`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanathorn-Rin&theme=darkhub&no-frame=true&column=7&margin-w=8" width="100%" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanathorn-Rin&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_color=FF0000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanathorn-Rin&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&border_color=FF0000" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Tanathorn-Rin&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+</div>
+
+<!-- ░▒▓ TRAFFIC MONITOR ▓▒░ -->
+## `$ tcpdump -i eth0   # live activity capture`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanathorn-Rin&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&area=true&area_color=8B0000&hide_border=true&custom_title=Intrusion%20%2F%20Activity%20Monitor" width="100%" />
+</div>
+
+<!-- ░▒▓ CONTACT / REVERSE SHELL ▓▒░ -->
+## `$ nc -lvnp 4444   # catch the shell`
 
 <div align="center">
   <a href="https://linkedin.com/in/tanathorn-s">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000" alt="LinkedIn"/>
   </a>
   <a href="mailto:so.tanathorn@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Email-FF0000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000" alt="Email"/>
   </a>
-  <a href="tanathorn-rin.vercel.app">
-    <img src="https://img.shields.io/badge/-Website-74b9ff?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
+  <a href="https://tanathorn-rin.vercel.app">
+    <img src="https://img.shields.io/badge/-Portfolio-FFFFFF?style=for-the-badge&logo=firefox&logoColor=000000&labelColor=FFFFFF" alt="Website"/>
   </a>
 </div>
 
+<!-- ░▒▓ FOOTER ▓▒░ -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=74b9ff&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:000000&height=120&section=footer&text=Hack%20the%20planet.&fontSize=20&fontColor=FFFFFF&fontAlignY=70" width="100%"/>
 </div>
