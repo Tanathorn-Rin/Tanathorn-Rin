@@ -76,7 +76,7 @@ class Operator:
 └─$ neofetch
                                   0xTanathorn@blackbox
          .--.                     ──────────────────────────────
-        |o_o |                    OS       : Kali Linux (rolling)
+        |o_o |                    OS       : Parrot OS
         |:_/ |                    Shell    : bash + PowerShell
        //   \ \                   Editor   : neovim / VS Code
       (|     | )                  Tools    : Burp · nmap · Metasploit
