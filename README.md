@@ -16,18 +16,23 @@
  ░  ░  ░      ░  ░░ ░      ░  ░      ░  ░   ░
                   ░
 
-                 ______
-              .-"      "-.
-             /            \
-            |              |        [ SYSTEM BREACH DETECTED ]
-            |,  .-.  .-.  ,|        > injecting payload.........[ OK ]
-            | )(_o/  \o_)( |        > bypassing auth............[ OK ]
-            |/     /\     \|        > escalating privileges.....[ OK ]
-            (_     ^^     _)        > spawning shell............[ OK ]
-             \__|IIIIII|__/         #
-              | \IIIIII/ |          # ACCESS LEVEL: root
-              \          /          # whoami => 0xTanathorn
-               `--------`
+
+                      ______
+                   .-"      "-.                 
+                  /            \                   
+      _          |              |          _         [ SYSTEM BREACH DETECTED ]
+     ( \         |,  .-.  .-.  ,|         / )        > injecting payload.........[ OK ]
+      > "=._     | )(__/  \__)( |     _.=" <         > bypassing auth............[ OK ]
+     (_/"=._"=._ |/     /\     \| _.="_.="\_)        > escalating privileges.....[ OK ]
+            "=._ (_     ^^     _)"_.="               > spawning shell............[ OK ]
+                "=\__|IIIIII|__/="                   #
+               _.="| \IIIIII/ |"=._                  # ACCESS LEVEL: root
+     _     _.="_.="\          /"=._"=._     _        # whoami => 0xTanathorn
+    ( \_.="_.="     `--------`     "=._"=._/ )
+     > _.="                            "=._ <
+    (_/                                    \_)
+
+
 ```
 
 <p align="center">
