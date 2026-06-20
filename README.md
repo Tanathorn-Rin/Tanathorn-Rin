@@ -156,11 +156,12 @@ PORT      STATE  SERVICE
     <img src="https://img.shields.io/badge/-Email-FF0000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000" alt="Email"/>
   </a>
   <a href="http://tanathorn-rin.github.io">
-    <img src="https://img.shields.io/badge/-Portfolio-FFFFFF?style=for-the-badge&logo=firefox&logoColor=000000&labelColor=FFFFFF" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
   </a>
   <a href="https://app.hackthebox.com/users/1962933">
     <img src="https://img.shields.io/badge/Hack_The_Box-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox"/>
   </a>
+  
 </div>
 
 <!-- ░▒▓ TRAFFIC MONITOR ▓▒░ -->
